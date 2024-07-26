@@ -1,7 +1,7 @@
 <h1 align="center">Curso Explorador Análisis de datos </h1>
 
 <p align="center">
-<img src="./Logos/logo.png" height="100">
+<img src="./DataScience-main/Logos/logo.png" height="100">
 </p>
 
 Bienvenido al repositorio del curso de Análisis de Datos Generación 7 modalidad presencial. 
